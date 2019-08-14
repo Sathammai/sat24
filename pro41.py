@@ -1,4 +1,4 @@
-#p
+#p41
 a1,b1=input().split()
 a1=int(a1)
 b1=int(b1)
@@ -25,4 +25,4 @@ if(int(s2[x1])==0):
     print('-1')
 elif a1==1 and b1==2: print("011")
 else:
-    print(s2)
+   print(s2)
